@@ -1,6 +1,6 @@
 # Frontend Conf 21-22 мая в Москве
 
-- Фотографии в [альбоме на Фейсбуке](https://www.facebook.com/oleg.bunin/media_set?set=a.906441169397575.1073741836.100000951008959)
+- Фотографии на Фейсбуке: [день первый](https://www.facebook.com/oleg.bunin/media_set?set=a.906441169397575.1073741836.100000951008959), [день второй](https://www.facebook.com/oleg.bunin/media_set?set=a.910651675643191.1073741837.100000951008959)
 - Хештег [FrontConfMsk](https://twitter.com/hashtag/frontconfmsk) в Твитере
 
 ## Первый день
