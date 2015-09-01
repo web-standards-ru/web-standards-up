@@ -5,6 +5,7 @@
 ### Лог твиттер-трансляции
 
 Доброе утро! Через несколько минут мы начнем трансляцию с [#func2015](https://twitter.com/search?q=%23func2015). [pic.twitter.com/wzJJfRtxPs](http://t.co/wzJJfRtxPs)
+
 ![](https://pbs.twimg.com/media/CNj6X-UW8AAy9ph.jpg)
 
 Идея [#func2015](https://twitter.com/search?q=%23func2015) — рассказать про локальные сообщества веб-разработчиков в России.
@@ -14,6 +15,7 @@
 And right now [@filipovskii\_en](https://twitter.com/filipovskii_en "Andrey Salomatin") speaks about our local communities.
 
 Рассказ действительно на английском, потому что на [#func2015](https://twitter.com/search?q=%23func2015) много гостей из Европы. [pic.twitter.com/AFrxmLxsTT](http://t.co/AFrxmLxsTT)
+
 ![](https://pbs.twimg.com/media/CNj_FtWWoAAUrHJ.jpg)
 
 Минское сообщество 4Front родилось в голове [@nedudi](https://twitter.com/nedudi "Dmitry Dudin") во время внутренних посиделок в SB Software .
@@ -29,6 +31,7 @@ And right now [@filipovskii\_en](https://twitter.com/filipovskii_en "Andrey Salo
 Классический пример — воровство cookie.
 
 Зачем? Чтобы сделать запрос от чужого пользователя. [pic.twitter.com/msWVpL8GhD](http://t.co/msWVpL8GhD)
+
 ![](https://pbs.twimg.com/media/CNkBawHWEAAfJ47.jpg)
 
 Cookie, localStorage, keylogging — вот это всё — объекты XSS-атак типа.
@@ -86,6 +89,7 @@ CORS можно очень гибко настроить. И можно сдел
 Живые слайды доклада Марины [slides.com/marinamiranovi…](http://t.co/rmkkpA21aM "http://slides.com/marinamiranovich/deck/live")
 
 И даже qr-код для слайдов. [pic.twitter.com/leP52bWVNT](http://t.co/leP52bWVNT)
+
 ![](https://pbs.twimg.com/media/CNkLUVUW8AAamQp.jpg)
 
 Первая история — «Про TDD».
@@ -99,6 +103,7 @@ TDD — это просто. Пишем тест, пишем минимальн
 Разработка через TDD — медленнее, но суммарное время разработки проекта уменьшатся. Потому что не нужно тестить в конце и править баги.
 
 Сравнение классического цикла разработки и разработки через TDD. [pic.twitter.com/RxCPECz6Sw](http://t.co/RxCPECz6Sw)
+
 ![](https://pbs.twimg.com/media/CNkMUR_XAAAbCox.png)
 
 TDD также существенно снижает «стоимость» поиска и исправления багов.
@@ -170,9 +175,11 @@ it\('Должно быть понятно что тест делает', functio
 Но мы в интернете, тут сетевые задержки и прочие беды [#func2015](https://twitter.com/search?q=%23func2015)
 
 Типичная проблема - как разрешить конфликт? [pic.twitter.com/irmoJ5Km2y](http://t.co/irmoJ5Km2y)
+
 ![](https://pbs.twimg.com/media/CNkYcC_WoAEkpEF.jpg)
 
 Типичная проблема - конфликты. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/usjXGCPAqm](http://t.co/usjXGCPAqm)
+
 ![](https://pbs.twimg.com/media/CNkYmoKWEAAgS28.jpg)
 
 Решения — блокировка во время ввода. Но это не настоящий collaboration. [#func2015](https://twitter.com/search?q=%23func2015)
@@ -184,6 +191,7 @@ it\('Должно быть понятно что тест делает', functio
 Differencial Syncronisation — отправляем на сервер диффы, сервер накладывает диффы и синхронизирует всё. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Схема с диффами, патчами клиентом и сервером. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/aFv7CSZpF4](http://t.co/aFv7CSZpF4)
+
 ![](https://pbs.twimg.com/media/CNkaQWCWoAAFkkc.jpg)
 
 Доклад на самом деле про котиков. [#func2015](https://twitter.com/search?q=%23func2015)
@@ -197,6 +205,7 @@ $ npm install diffsync; [#func2015](https://twitter.com/search?q=%23func2015)
 На клиенте всего три метода. It's easy, really. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Живейшее демо. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/4NR8FFUEje](http://t.co/4NR8FFUEje)
+
 ![](https://pbs.twimg.com/media/CNkdMKeWwAABMYP.jpg)
 
 Ян разрабатывает инструмент для совместной работы над музыкальными произведениями. В интернете. Глобальный jam [#func2015](https://twitter.com/search?q=%23func2015)
@@ -242,6 +251,7 @@ $ npm install diffsync; [#func2015](https://twitter.com/search?q=%23func2015)
 В unit-тестах — fake-запросы, в интеграционных — работаем с реальным веб-сервером. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Интеграционные тесты - это Selenium. Selenium это джава. Не знаем Джаву - берем вебдрайвер [pic.twitter.com/0ynSiicdIK](http://t.co/0ynSiicdIK)
+
 ![](https://pbs.twimg.com/media/CNk1qxdWgAAbo2w.jpg)
 
 Для тестирования изоморфного кода запускаем веб-драйвер с отключенным JavaScript. [#func2015](https://twitter.com/search?q=%23func2015)
@@ -257,6 +267,7 @@ $ npm install diffsync; [#func2015](https://twitter.com/search?q=%23func2015)
 Проблема своего сервера в офисе — нельзя «достучаться» до него из сервера на Amason. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Четыре причины по которым мы пишем тесты. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/vJmG0saQ6z](http://t.co/vJmG0saQ6z)
+
 ![](https://pbs.twimg.com/media/CNk4R3OWcAAqd_B.jpg)
 
 Презентация [j.mp/FU\_LARCHANKA](http://t.co/ZhXn2e7Zia "http://j.mp/FU_LARCHANKA"), твиттер Михаила [@MLarchanka](https://twitter.com/MLarchanka "Mikhail Larchanka") [#func2015](https://twitter.com/search?q=%23func2015)
@@ -273,6 +284,7 @@ Galen позволяет проверять не только точное со�
 ### Следующий докладчик — Варвара Степанова из frontend.fi c докладом «Сначала стайлгайд — подход к разработке UI компонентов» [#func2015](https://twitter.com/search?q=%23func2015)
 
 Мечты и реальность. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/cirrRUzqO0](http://t.co/cirrRUzqO0)
+
 ![](https://pbs.twimg.com/media/CNk9a8-WEAALqEU.jpg)
 
 Типичный подход к разработке порождает сложно изменяемый и запутанный монолитный код. [#func2015](https://twitter.com/search?q=%23func2015)
@@ -288,6 +300,7 @@ Galen позволяет проверять не только точное со�
 Мы создали интрумент — [styleguide.sc5.io](http://t.co/qQz0XQHG0S "http://styleguide.sc5.io") [#func2015](https://twitter.com/search?q=%23func2015)
 
 Демо-сессия. В vim, да. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/APitJuW2MX](http://t.co/APitJuW2MX)
+
 ![](https://pbs.twimg.com/media/CNk_XSjWgAA0Rkm.jpg)
 
 Как результат — на одно странице можно видеть разметку для компонента, его стили и то, как он будет выглядеть. [#func2015](https://twitter.com/search?q=%23func2015)
@@ -331,11 +344,13 @@ RT [@life\_\_777](https://twitter.com/life__777 "Vladimir Dashukevich"): [@webst
 ### Следующий доклад — «Прощай, jQuery!» от Заремы Халиловой из SpbFrontend. [#func2015](https://twitter.com/search?q=%23func2015)
 
 [pic.twitter.com/KjafZSC9xL](http://t.co/KjafZSC9xL)
+
 ![](https://pbs.twimg.com/media/CNlMyIPWgAEjGbY.jpg)
 
 Зарема предлагает зайти по сслыке [ficus.io/uk](http://t.co/MKfE4U9BPP "http://ficus.io/uk") и проголосовать [#func2015](https://twitter.com/search?q=%23func2015)
 
 Дикая гонка столбиков. Завораживает [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/fCXCS01bZC](http://t.co/fCXCS01bZC)
+
 ![](https://pbs.twimg.com/media/CNlNbPpWwAAcwSx.jpg)
 
 Победила опция «Поддержка Legacy» [#func2015](https://twitter.com/search?q=%23func2015)
@@ -355,6 +370,7 @@ xmlHttpRequest уже не такой большой и страшный, а е�
 Функции ES6, которые ещё не реализованы в браузерах можно эмулировать с помощью [github.com/azproduction/a…](https://t.co/bVLM9EYJfJ "https://github.com/azproduction/autopolyfiller") [#func2015](https://twitter.com/search?q=%23func2015)
 
 Знать JavaScript выгоднее, чем jQuery [pic.twitter.com/awkotvjDGm](http://t.co/awkotvjDGm)
+
 ![](https://pbs.twimg.com/media/CNlRi1gW8AAzMmw.jpg)
 
 — Какой плюс принесёт использование чистого JavaScript?  
@@ -377,6 +393,7 @@ xmlHttpRequest уже не такой большой и страшный, а е�
 В этом примере все виды асинхронности — запрос на сервер, пачка доп-запросов и синхронные операции. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Типичный подход к решению задачи - Callback hell [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/R1ZrcQ8UXc](http://t.co/R1ZrcQ8UXc)
+
 ![](https://pbs.twimg.com/media/CNlX1dcWsAA3Gec.jpg)
 
 У коллбеков только один плюс — нулевой оверхед [#func2015](https://twitter.com/search?q=%23func2015)
@@ -406,6 +423,7 @@ xmlHttpRequest уже не такой большой и страшный, а е�
 У генераторов тоже есть недостатки. Решение из ближайшего будущего — async/await. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Производительность колбеков, промисов и генераторов. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/NEj49OGLgY](http://t.co/NEj49OGLgY)
+
 ![](https://pbs.twimg.com/media/CNldiDIW8AAv6RR.jpg)
 
 Если нужно чтобы код работал быстро — используйте колбеки. Если код нужно написать быстро — используйте генераторы [#func2015](https://twitter.com/search?q=%23func2015)
@@ -416,9 +434,11 @@ xmlHttpRequest уже не такой большой и страшный, а е�
 Все библиотеки полностью реализуют спецификацию, но добавляют дополнительный функционал, что может усложнить миграцию. [#func2015](https://twitter.com/search?q=%23func2015)
 
 Фото группового фото [pic.twitter.com/0HT6fuvioH](http://t.co/0HT6fuvioH)
+
 ![](https://pbs.twimg.com/media/CNlguPPWoAATbFa.jpg)
 
 [@frontend\_union](https://twitter.com/frontend_union "Frontend Union Conf") [@olmokhov](https://twitter.com/olmokhov "Олег Мохов") [@\_h4\_](https://twitter.com/_h4_ "Наполеон Бонапарт") you are welcome!
 
 И под занавес сегодняшней трансляции - секретное фото с записи нового выпуска RadioJS. [#func2015](https://twitter.com/search?q=%23func2015) [pic.twitter.com/SI5eFvvVxC](http://t.co/SI5eFvvVxC)
+
 ![](https://pbs.twimg.com/media/CNlnC2PWUAAuSRL.jpg)
