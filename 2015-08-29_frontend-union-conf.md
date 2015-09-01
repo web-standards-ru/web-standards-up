@@ -2,6 +2,16 @@
 
 ## 2015-08-29, Москва, Россия
 
+### Список докладов
+
+1. [XSS войны. Пробуждение силы.](http://life777.github.io/CSP/index.html), Владимир Дашукевич
+1. [Три истории о тестировании.](slides.com/marinamiranovich/deck), Марина Миронович
+1. [Создание приложений для совместного редактирования документов с использованием DiffSync.](http://janmonschke.com/diffsync-presentation/), Jan Monschke
+1. [Сначала стайлгайд — подход к разработке UI компонентов.](http://varya.me/func-2015/), Варвара Степанова
+1. [Тестирование изоморфных React приложений.](http://www.slideshare.net/horrorgr/isomorphic-react-a), Михаил Ларченко
+1. Прощай, jQuery!, Зарема Халилова
+1. [Трое в лодке, не считая колбэка.](http://zhigalov.github.io/frontend-union-conf/), Сергей Жигалов
+
 ### Лог твиттер-трансляции
 
 Доброе утро! Через несколько минут мы начнем трансляцию с [#func2015](https://twitter.com/search?q=%23func2015). [pic.twitter.com/wzJJfRtxPs](http://t.co/wzJJfRtxPs)
