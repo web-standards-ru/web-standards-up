@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "update": "babel-node update",
+    "generate": "babel-node posts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +22,7 @@
     "babel": "^5.8.23",
     "fs-extra": "^0.24.0",
     "get-tweets": "^1.1.8",
+    "tweet.md": "^1.3.0",
     "twitter-tokens": "^1.0.1"
   }
 }
