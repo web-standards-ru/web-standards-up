@@ -1,0 +1,26 @@
+{
+  "name": "web-standards-up",
+  "version": "0.1.0",
+  "description": "Логи трансляций @webstandards_up",
+  "main": "index.js",
+  "scripts": {
+    "update": "babel-node update",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web-standards-ru/web-standards-up.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web-standards-ru/web-standards-up/issues"
+  },
+  "homepage": "https://github.com/web-standards-ru/web-standards-up",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "fs-extra": "^0.24.0",
+    "get-tweets": "^1.1.8",
+    "twitter-tokens": "^1.0.1"
+  }
+}
