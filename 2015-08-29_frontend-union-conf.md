@@ -9,7 +9,7 @@
 1. [Создание приложений для совместного редактирования документов с использованием DiffSync.](http://janmonschke.com/diffsync-presentation/), Jan Monschke
 1. [Сначала стайлгайд — подход к разработке UI компонентов.](http://varya.me/func-2015/), Варвара Степанова
 1. [Тестирование изоморфных React приложений.](http://www.slideshare.net/horrorgr/isomorphic-react-a), Михаил Ларченко
-1. Прощай, jQuery!, Зарема Халилова
+1. [Прощай, jQuery!](http://slides.com/zmoki/jquery), Зарема Халилова
 1. [Трое в лодке, не считая колбэка.](http://zhigalov.github.io/frontend-union-conf/), Сергей Жигалов
 
 ### Лог твиттер-трансляции
