@@ -5,7 +5,7 @@
 ### Список докладов
 
 1. [XSS войны. Пробуждение силы.](http://life777.github.io/CSP/index.html), Владимир Дашукевич
-1. [Три истории о тестировании.](slides.com/marinamiranovich/deck), Марина Миронович
+1. [Три истории о тестировании.](http://slides.com/marinamiranovich/deck), Марина Миронович
 1. [Создание приложений для совместного редактирования документов с использованием DiffSync.](http://janmonschke.com/diffsync-presentation/), Jan Monschke
 1. [Сначала стайлгайд — подход к разработке UI компонентов.](http://varya.me/func-2015/), Варвара Степанова
 1. [Тестирование изоморфных React приложений.](http://www.slideshare.net/horrorgr/isomorphic-react-a), Михаил Ларченко
