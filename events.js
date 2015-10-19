@@ -1,5 +1,12 @@
 export default [
     {
+        date: '2015-10-17',
+        shortName: 'ya-subbotink',
+        fullName: 'Яндекс-субботник по фронтенду',
+        location: 'Москва, Россия',
+        firstTweetId: '655298234345238528'
+    },
+    {
         date: '2015-10-09',
         shortName: 'fronteers',
         fullName: 'Fronteers',
