@@ -27,7 +27,7 @@
 
 ![](https://pbs.twimg.com/media/CRgXmGRWcAAB4tn.jpg)
 
-Виталий Харисов [@harisov](https://twitter.com/harisov "Vitaly Harisov") открывает [#yasubbotnik](https://twitter.com/search?q=%23yasubbotnik). Презентации будут на сайте одновременном докладами. [pic.twitter.com/jgeZMbJ57f](http://t.co/jgeZMbJ57f)
+Виталий Харисов [@harisov](https://twitter.com/harisov "Vitaly Harisov") открывает [#yasubbotnik](https://twitter.com/search?q=%23yasubbotnik). Презентации будут на сайте одновременно с докладами. [pic.twitter.com/jgeZMbJ57f](http://t.co/jgeZMbJ57f)
 
 ![](https://pbs.twimg.com/media/CRgfJg8WoAAXKqS.jpg)
 
@@ -47,7 +47,7 @@ RT [@SirAlexRus](https://twitter.com/SirAlexRus "Sir_Alex"): Боль суббо
 
 ![](https://pbs.twimg.com/media/CRgfdEJWoAAMNJC.jpg)
 
-Изначально использовался [#gitflow](https://twitter.com/search?q=%23gitflow), но через полгода его несколько изменили 
+Изначально использовался [#gitflow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/), но через полгода его несколько изменили 
 
 Результат — переход к коротким, до 1 дня, релизам 
 
