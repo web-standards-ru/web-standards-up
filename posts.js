@@ -24,4 +24,4 @@ const md = [
         .join('\n\n')
 ].filter(x => x).join('\n\n');
 
-fs.outputFile(`./posts/${currentEvent.date}_${currentEvent.shortName}.md`, md, err => console.log(`${currentEvent.shortName} done`));
+fs.outputFile(`./${currentEvent.date}_${currentEvent.shortName}.md`, md, err => console.log(`${currentEvent.shortName} done`));
