@@ -1,5 +1,12 @@
 export default [
     {
+        date: '2015-10-31',
+        shortName: 'wsd-minsk',
+        fullName: 'WebStandards Days',
+        location: 'Минск, Белоруссия',
+        firstTweetId: '660351376619245569'
+    },
+    {
         date: '2015-10-23',
         shortName: 'it-nonstop',
         fullName: 'IT NonStop',
