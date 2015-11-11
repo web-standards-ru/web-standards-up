@@ -1,5 +1,12 @@
 export default [
     {
+        date: '2015-10-23',
+        shortName: 'it-nonstop',
+        fullName: 'IT NonStop',
+        location: 'Санкт-Петербург, Россия',
+        firstTweetId: '657463504702713856'
+    },
+    {
         date: '2015-10-17',
         shortName: 'ya-subbotink',
         fullName: 'Яндекс-субботник по фронтенду',
