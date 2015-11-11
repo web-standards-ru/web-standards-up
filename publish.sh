@@ -14,6 +14,7 @@ echo "generate md"
 npm run generate
 
 echo "save dump"
+git fetch --depth=5 https://wsd-bot:${GITHUB_TOKEN}@github.com/web-standards-ru/web-standards-up.git master:refs/remotes/origin/master
 git checkout master
 git add dump
 git commit -m "save dump\n\n[ci skip]"
