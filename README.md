@@ -1,4 +1,4 @@
-# Логи трансляции твиттер-аккаунта @webstandards_up
+# Логи трансляции твиттер-аккаунта [@webstandards_up](https://twitter.com/webstandards_up) 
 
 [![Build Status](https://travis-ci.org/web-standards-ru/web-standards-up.svg?branch=engine)](https://travis-ci.org/web-standards-ru/web-standards-up)
 
@@ -23,7 +23,7 @@
 ### Как узнать id твита?
 
 Проще всего открыть ленту твиттера и кликнуть по дате твита. Откроется страница вида 
-`https://twitter.com/_h4_/status/664699945971261440`. Цифры в хвосте url и есть идентификатор твита.
+`https://twitter.com/webstandards_up/status/660794275840544769`. Цифры в хвосте url и есть идентификатор твита.
 
 ### Как это работает?
 
