@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "update": "babel-node update",
+    "update-all": "babel-node update --force",
     "generate": "babel-node posts",
+    "regenerate": "babel-node posts --force",
     "test": "echo \"No tests here. It's OK\" && exit 0"
   },
   "repository": {

@@ -13,16 +13,24 @@ const extractImages = (tweet) => getMedia(tweet)
 const render = (tweet) => tweet.entities.media !== undefined ? [].concat(renderTweet(tweet), extractImages(tweet)).join('\n\n') :
     renderTweet(tweet);
 
-const dump = fs.readJsonSync(`./dump/${currentEvent.date}_${currentEvent.shortName}.json`, {throws: false}) || {};
+function generate(event) {
+    const dump = fs.readJsonSync(`./dump/${event.date}_${event.shortName}.json`, {throws: false}) || {};
 
-dump.tweets.reverse();
+    dump.tweets.reverse();
 
-const md = [
-    `# ${currentEvent.fullName}`,
-    `## ${currentEvent.date}, ${currentEvent.location}`,
-    dump.tweets
-        .map(render)
-        .join('\n\n')
-].filter(x => x).join('\n\n');
+    const md = [
+        `# ${event.fullName}`,
+        `## ${event.date}, ${event.location}`,
+        dump.tweets
+            .map(render)
+            .join('\n\n')
+    ].filter(x => x).join('\n\n');
 
-fs.outputFile(`./${currentEvent.date}_${currentEvent.shortName}.md`, md, err => console.log(`${currentEvent.shortName} done`));
+    fs.outputFile(`./${event.date}_${event.shortName}.md`, md, err => log(`${event.shortName} done`));
+}
+
+if (process.argv.indexOf('--force') !== -1) {
+    events.forEach(generate)
+} else {
+    generate(events[0])
+}

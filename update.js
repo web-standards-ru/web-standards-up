@@ -4,16 +4,23 @@ import tokens from 'twitter-tokens';
 import events from './events';
 
 const log = console.log.bind(null);
-const currentEvent = events[0];
 
-getTweets(tokens, 'webstandards_up', currentEvent.firstTweetId, (err, tweets, missed, info) => {
-    "use strict";
+function generateDump(event) {
+    getTweets(tokens, 'webstandards_up', event.firstTweetId, (err, tweets, missed, info) => {
+        "use strict";
 
-    if (err) {
-        throw err;
-    }
+        if (err) {
+            throw err;
+        }
 
-    currentEvent.tweets = tweets;
-    fs.outputJson(`./dump/${currentEvent.date}_${currentEvent.shortName}.json`, currentEvent, err =>
-        log(`${currentEvent.shortName} done`));
-});
+        event.tweets = tweets.filter((tweet) => tweet.id < event.lastTweetId);
+        fs.outputJson(`./dump/${event.date}_${event.shortName}.json`, event, err =>
+            log(`${event.shortName} done`));
+    });
+}
+
+if (process.argv.indexOf('--force') !== -1) {
+    events.forEach(generateDump)
+} else {
+    generateDump(events[0])
+}
