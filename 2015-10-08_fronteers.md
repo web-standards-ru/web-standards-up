@@ -10,9 +10,13 @@
 
 ![](https://pbs.twimg.com/media/CQyYhXMUcAAudWI.jpg)
 
+![](https://pbs.twimg.com/media/CQyYhz7UwAAZXl4.jpg)
+
 Первый день открыл Скот Джел из Filament Group. [pic.twitter.com/OlZ7z7Y9rv](http://t.co/OlZ7z7Y9rv)
 
 ![](https://pbs.twimg.com/media/CQyY0I-UkAEk9EQ.jpg)
+
+![](https://pbs.twimg.com/media/CQyY0oeUkAAOhlQ.jpg)
 
 Скот поделился практическими советами как улучшить производительность загрузки и начальной отрисовки страницы.
 
@@ -50,6 +54,8 @@
 
 ![](https://pbs.twimg.com/media/CQyfsvZW8AEqPCh.jpg)
 
+![](https://pbs.twimg.com/media/CQyftJyWgAAwiEl.jpg)
+
 Новые функции Sass вы можете писать на JS. Всё это будет прекрасно работать с libSass.
 
 Сам Sass можно подключать из npm — require\(‘node-sass’\). Для управления зависимостями Sass-плагинов Крис представил [eyeglass.rocks](http://t.co/giNVK7UPBf "http://eyeglass.rocks/")
@@ -70,9 +76,13 @@ Sass-стили имеют доступ к файловой системе. Во
 
 ![](https://pbs.twimg.com/media/CQykdogWEAEzaaC.jpg)
 
+![](https://pbs.twimg.com/media/CQykeB9WsAAA80q.jpg)
+
 Доминик Сзаблевски сейчас раскрывает секреты того, как декодировать видео на JS [pic.twitter.com/T8ji5ExDx8](http://t.co/T8ji5ExDx8)
 
 ![](https://pbs.twimg.com/media/CQyxe5HUkAAi7ps.jpg)
+
+![](https://pbs.twimg.com/media/CQyxeZOWwAAj5IF.jpg)
 
 Доминик ещё известен благодаря своим играми в браузере [impactjs.com](http://t.co/BKTgSgvxlE "http://impactjs.com/") и библиотеке [impactjs.com/ejecta](http://t.co/EupRE1oLic "http://impactjs.com/ejecta") [pic.twitter.com/HpR8PvM3t7](http://t.co/HpR8PvM3t7)
 
@@ -90,9 +100,13 @@ Sass-стили имеют доступ к файловой системе. Во
 
 ![](https://pbs.twimg.com/media/CQy15P2WIAAwzrg.jpg)
 
+![](https://pbs.twimg.com/media/CQy16cCWoAAdSW0.jpg)
+
 И скорости хватает чтобы делать потоковое вещание для игр на другие устройства. [pic.twitter.com/JBulAtDgIr](http://t.co/JBulAtDgIr)
 
 ![](https://pbs.twimg.com/media/CQy3c00XAAAWqww.jpg)
+
+![](https://pbs.twimg.com/media/CQy3e-1WIAAqHgJ.jpg)
 
 [phoboslab.org/fronteers15](http://t.co/WmOFthQ1u8 "http://phoboslab.org/fronteers15") ссылка на материалы презентации Доминика.
 
@@ -109,6 +123,12 @@ Sass-стили имеют доступ к файловой системе. Во
 Не важно какой инструмент использовать для документирования стиля. Используйте хоть какой-нибудь! [pic.twitter.com/CS5L5I4DpW](http://t.co/CS5L5I4DpW)
 
 ![](https://pbs.twimg.com/media/CQzBRaEWgAAPzyi.jpg)
+
+![](https://pbs.twimg.com/media/CQzBSn6WUAAX_y6.jpg)
+
+![](https://pbs.twimg.com/media/CQzBT3SWcAAcewW.jpg)
+
+![](https://pbs.twimg.com/media/CQzBVIvWcAAy-hh.jpg)
 
 На сессии вопросов-ответов Анну спросили: «Не кажется-ли, что стайлгайды убивают креативность?». А что вы думаете? [pic.twitter.com/yPlD5dAdoZ](http://t.co/yPlD5dAdoZ)
 
@@ -173,6 +193,8 @@ Sass-стили имеют доступ к файловой системе. Во
 «Service workers». О них ребята из Гугла рассказывают много в последнее время. [pic.twitter.com/6Abj8YxB3T](http://t.co/6Abj8YxB3T)
 
 ![](https://pbs.twimg.com/media/CQzgpC3UcAANo6s.jpg)
+
+![](https://pbs.twimg.com/media/CQzgqs0UAAAHLcm.jpg)
 
 С их помощью ваша страница будет доступна даже при плохом соединении или вообще в оффлайне.
 

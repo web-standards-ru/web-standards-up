@@ -103,5 +103,3 @@ PostCSS — это не синтаксический сахар, а создан
 ![](https://pbs.twimg.com/media/CR_Z2YnUsAAzr3e.png)
 
 Правила использования PostCSS на одном слайде: [ai.github.io/postcss-way/ru…](https://t.co/GTCZUIiEkr "http://ai.github.io/postcss-way/ru/?full#59")
-
-[@adinvadim](https://twitter.com/adinvadim "Вадим Костин") это shower — просто уберите ?full\#59 в адресной строке.

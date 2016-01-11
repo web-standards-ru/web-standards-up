@@ -26,6 +26,8 @@
 
 ![](https://pbs.twimg.com/media/CQ27Z20WEAA3xMe.jpg)
 
+![](https://pbs.twimg.com/media/CQ27bj7WwAAsB8j.jpg)
+
 Быстрая и безопасная выкатка изменений в продакшин. Surge — сервис для деплоя [surge.sh](https://t.co/M97OFcBs8x "https://surge.sh/") [pic.twitter.com/8rBRd0cFEF](http://t.co/8rBRd0cFEF)
 
 ![](https://pbs.twimg.com/media/CQ276tUWEAAeMrt.jpg)
@@ -33,6 +35,8 @@
 Упрощайте свою инфраструктуру. Переносите сложные части в as-a-service компоненты. [pic.twitter.com/e18G7uOaNc](http://t.co/e18G7uOaNc)
 
 ![](https://pbs.twimg.com/media/CQ29F_AWoAAhabt.jpg)
+
+![](https://pbs.twimg.com/media/CQ29HwSWUAAK7f8.jpg)
 
 Отделите систему управления контента от вашего продакшин-окружения. [pic.twitter.com/oB4LWLKMFO](http://t.co/oB4LWLKMFO)
 
@@ -57,6 +61,10 @@
 Инструментов, которые упрощают жизнь, очень много: [pic.twitter.com/Ep1aGqzMYU](http://t.co/Ep1aGqzMYU)
 
 ![](https://pbs.twimg.com/media/CQ3EyusXAAA8IGw.jpg)
+
+![](https://pbs.twimg.com/media/CQ3E1BCXAAASRei.jpg)
+
+![](https://pbs.twimg.com/media/CQ3E2oPXAAA70Ba.jpg)
 
 Вес начал перечислять полезные задачи:  
 1\) определение «критических» ресурсов;  
@@ -105,6 +113,8 @@ Sourcemap исключительно полезны при отладке. Ра�
 
 ![](https://pbs.twimg.com/media/CQ3WiahWgAAGa0F.jpg)
 
+![](https://pbs.twimg.com/media/CQ3WkI-WoAE2fHj.jpg)
+
 Что такое «открытые данные»? Ответы тут — [opendefinition.org](http://t.co/72cVUgrNZd "http://opendefinition.org/")
 
 Кроме Creative Commons есть другие лицензии, позволяющие переиспользовать, модифицировать чужие данные. [pic.twitter.com/Q8VGUTQewD](http://t.co/Q8VGUTQewD)
@@ -140,6 +150,10 @@ Sourcemap исключительно полезны при отладке. Ра�
 Только сильно не увлекайтесь этим, чтобы не получилось как на слайдах: [pic.twitter.com/mDcKngl6Qm](http://t.co/mDcKngl6Qm)
 
 ![](https://pbs.twimg.com/media/CQ3c2sTWcAA-eED.jpg)
+
+![](https://pbs.twimg.com/media/CQ3c4JVWUAAnkgk.jpg)
+
+![](https://pbs.twimg.com/media/CQ3c50SWwAA5Z9S.jpg)
 
 Тщательно проверяйте данные, которые вы используете или публикуете. Они должны быть достоверными.
 
@@ -209,6 +223,8 @@ Sourcemap исключительно полезны при отладке. Ра�
 
 ![](https://pbs.twimg.com/media/CQ38gpBWIAEGK4X.jpg)
 
+![](https://pbs.twimg.com/media/CQ38hvbWEAAZNDh.jpg)
+
 Web Audio работает с минимальной задержкой в отдельном треде.
 
 Граф генераторов и фильтров очень оптимизирован внутри. Создание/удаление узлов практически бесплатно.
@@ -233,6 +249,8 @@ Web Audio работает с минимальной задержкой в от�
 
 ![](https://pbs.twimg.com/media/CQ4GXtsXAAAg2wz.jpg)
 
+![](https://pbs.twimg.com/media/CQ4GY59WUAAL6w2.jpg)
+
 Боль любого разработчика — вертикальное выравнивание. Flexbox решает много проблем в этой области. [pic.twitter.com/kQdEkH1HWE](http://t.co/kQdEkH1HWE)
 
 ![](https://pbs.twimg.com/media/CQ4GmhnXAAANc1U.jpg)
@@ -241,6 +259,10 @@ Web Audio работает с минимальной задержкой в от�
 
 ![](https://pbs.twimg.com/media/CQ4HduUXAAAR08A.jpg)
 
+![](https://pbs.twimg.com/media/CQ4HbV2XAAAv6Ao.jpg)
+
+![](https://pbs.twimg.com/media/CQ4HcgoXAAQXF9C.jpg)
+
 Тестер для свойств Flexbox [pic.twitter.com/eppM2QNv8H](http://t.co/eppM2QNv8H)
 
 ![](https://pbs.twimg.com/media/CQ4ITX7WcAANTOO.jpg)
@@ -248,6 +270,10 @@ Web Audio работает с минимальной задержкой в от�
 Новая единица измерения — fr \(fraction\) [pic.twitter.com/fBLAqt5YJX](http://t.co/fBLAqt5YJX)
 
 ![](https://pbs.twimg.com/media/CQ4IsOSWoAA0Lw1.jpg)
+
+![](https://pbs.twimg.com/media/CQ4ItgVW8AAEXrR.jpg)
+
+![](https://pbs.twimg.com/media/CQ4IvAFWoAAYJIp.jpg)
 
 Старые браузеры не понимают новых свойств. Но это не должно нас — разработчиков останавливать от экспериментов и использования новых фич.
 
@@ -298,6 +324,8 @@ Chrome Dev tools даёт сделать сопоставления между �
 
 ![](https://pbs.twimg.com/media/CQ4dAE-WcAALzZB.jpg)
 
+![](https://pbs.twimg.com/media/CQ4dBQPWcAAva8J.jpg)
+
 Изменения в отладчике можно отменять Cmd+Z \(Ctrl+Z, если вы пользуетесь Win\).
 
 В REPL можно использовать специальные переменные $, $$, $\_ [pic.twitter.com/QqXIwoyf5W](http://t.co/QqXIwoyf5W)
@@ -321,6 +349,8 @@ Chrome Dev tools даёт сделать сопоставления между �
 Можно сравнить два снимка памяти [pic.twitter.com/ptligOozeq](http://t.co/ptligOozeq)
 
 ![](https://pbs.twimg.com/media/CQ4gAk_WgAAK-sQ.jpg)
+
+![](https://pbs.twimg.com/media/CQ4gCbRWcAAxOdb.jpg)
 
 Можно эмулировать медленную сеть [pic.twitter.com/8cG5LRyY2Y](http://t.co/8cG5LRyY2Y)
 
