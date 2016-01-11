@@ -5,11 +5,12 @@ import renderTweet from 'tweet.md';
 
 const log = console.log.bind(null);
 const currentEvent = events[0];
-const extractImages = (tweet) => tweet.entities.media
+const getMedia = (tweet) => tweet.extended_entities !== undefined ? tweet.extended_entities.media : [];
+const extractImages = (tweet) => getMedia(tweet)
     .map(item => item['media_url_https'])
     .map(url => `![](${url})`)
     .join('\n\n');
-const render = (tweet) => tweet.entities.media !== undefined ? [renderTweet(tweet), extractImages(tweet)].join('\n\n') :
+const render = (tweet) => tweet.entities.media !== undefined ? [].concat(renderTweet(tweet), extractImages(tweet)).join('\n\n') :
     renderTweet(tweet);
 
 const dump = fs.readJsonSync(`./dump/${currentEvent.date}_${currentEvent.shortName}.json`, {throws: false}) || {};
