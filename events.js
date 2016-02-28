@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-02-27',
+        shortName: 'ya-subbotnik',
+        fullName: 'Яндекс-субботник по фронтенду',
+        location: 'Москва, Россия',
+        firstTweetId: '703505294685511680',
+        lastTweetId: '703697971658006528'
+    }
+    {
         date: '2015-11-01',
         shortName: 'wsd-minsk',
         fullName: 'WebStandards Days',
