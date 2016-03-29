@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-03-29',
+        shortName: 'design-depression',
+        fullName: 'Design Depression',
+        location: 'Москва, Россия',
+        firstTweetId: '714746992606494720',
+        lastTweetId: '714875762399121408'
+    },
+    {
         date: '2016-02-27',
         shortName: 'ya-subbotnik',
         fullName: 'Яндекс-субботник по фронтенду',
