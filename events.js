@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-05-11',
+        shortName: 'cssconfbudapest',
+        fullName: 'CSSConf Budapest 2016',
+        location: 'Будапешт, Венгрия',
+        firstTweetId: '730293152616226816',
+        lastTweetId: '730474039857295362'
+    },
+    {
         date: '2016-03-29',
         shortName: 'design-depression',
         fullName: 'Design Depression',
