@@ -1,5 +1,5 @@
 export default [
-    {
+/*    {
         date: '2016-06-02',
         shortName: 'scotlandjs',
         fullName: 'ScotlandJS',
@@ -14,7 +14,7 @@ export default [
         location: 'Эдинбург, Шотландия, Великобритания',
         firstTweetId: '738280930331250688',
         lastTweetId: '738404835624620032'
-    },
+    },*/
     {
         date: '2016-06-01',
         shortName: 'scotlandcss',
