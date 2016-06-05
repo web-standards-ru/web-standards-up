@@ -1,12 +1,12 @@
 export default [
 /*    {
-        date: '2016-06-02',
+        date: '2016-06-03',
         shortName: 'scotlandjs',
         fullName: 'ScotlandJS',
         location: 'Эдинбург, Шотландия, Великобритания',
         firstTweetId: '738641542714404864',
         lastTweetId: '738780207549718529'
-    },
+    },*/
     {
         date: '2016-06-02',
         shortName: 'scotlandjs',
@@ -14,7 +14,7 @@ export default [
         location: 'Эдинбург, Шотландия, Великобритания',
         firstTweetId: '738280930331250688',
         lastTweetId: '738404835624620032'
-    },*/
+    },
     {
         date: '2016-06-01',
         shortName: 'scotlandcss',
