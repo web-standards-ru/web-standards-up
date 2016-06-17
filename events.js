@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-06-16',
+        shortName: 'htmlspecial',
+        fullName: 'HTML Special',
+        location: 'Амстердам, Нидерланды',
+        firstTweetId: '743329967551840257',
+        lastTweetId: '743470458008395776'
+    },
+    {
         date: '2016-06-03',
         shortName: 'scotlandjs',
         fullName: 'ScotlandJS',
