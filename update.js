@@ -13,7 +13,11 @@ function generateDump(event) {
             throw err;
         }
 
-        event.tweets = tweets.filter((tweet) => tweet.id <= event.lastTweetId);
+        event.tweets = tweets;
+        if (event.lastTweetId) {
+            event.tweets = tweets.filter((tweet) => tweet.id <= event.lastTweetId);
+        }
+
         fs.outputJson(`./dump/${event.date}_${event.shortName}.json`, event, err =>
             log(`${event.shortName} done`));
     });
