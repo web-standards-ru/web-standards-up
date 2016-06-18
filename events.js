@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-06-17',
+        shortName: 'cssday',
+        fullName: 'CSS Day',
+        location: 'Амстердам, Нидерланды',
+        firstTweetId: '743701145365843968',
+        lastTweetId: '743827799702638600'
+    },
+    {
         date: '2016-06-16',
         shortName: 'htmlspecial',
         fullName: 'HTML Special',
