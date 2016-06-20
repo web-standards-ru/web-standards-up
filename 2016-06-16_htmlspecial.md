@@ -313,7 +313,7 @@ DRY? Don’t Repeat Yourself. Веб всё поменял: Do Repeat Yourself! 
 
 Четвёртый доклад на HTML Special: Саймон Питерс про элемент &lt;source&gt;. Из Opera, автор множества спецификаций.
 
-Элемент &lt;source&gt; не один, их скорее два. Один для &lt;videi&gt;, другой для &lt;picture&gt;, но об этом позже.
+Элемент &lt;source&gt; не один, их скорее два. Один для &lt;video&gt;, другой для &lt;picture&gt;, но об этом позже.
 
 Opera предложила элемент &lt;video&gt; в 2007 году [pic.twitter.com/byNvzBKmhn](https://t.co/byNvzBKmhn)
 
