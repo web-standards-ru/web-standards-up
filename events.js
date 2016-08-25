@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-08-25',
+        shortName: 'jsconfis',
+        fullName: 'JSConf Iceland',
+        location: 'Рейкявик, Исландия',
+        firstTweetId: '768746357767172096',
+        lastTweetId: '768870149533433856'
+    },
+    {
         date: '2016-06-16',
         shortName: 'htmlspecial',
         fullName: 'HTML Special',
