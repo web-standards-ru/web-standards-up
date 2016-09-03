@@ -1,6 +1,6 @@
 # HTML Special
 
-## 2016-06-16, Амстердам, Нидерланды
+_2016-06-16, Амстердам, Нидерланды_
 
 Доброе утро! Сегодня с вами снова [@pepelsbey](https://twitter.com/pepelsbey "Вадим Макеев") с конференции HTML Special в Амстердаме. Поговорим про HTML, разогрев перед завтрашней CSS Day.
 
@@ -17,6 +17,8 @@
 ![](https://pbs.twimg.com/media/ClDdpDdUgAE2CAE.jpg)
 
 На сцене ведущий, открываем: 4-й CSS Day и 1-й HTML Special. Целый день про HTML, представляете? Спонсоры Microsoft и MailChimp.
+
+## `<a>`, Джереми Кит
 
 Открывает HTML Special Джереми Кит с докладом про элемент &lt;a&gt;. Тот самый.
 
@@ -78,6 +80,8 @@ IndieWebCamp, собрание людей, противостоящих корп
 — Я случайно написал что-то похожее и думаю самостоятельно издать, с веб-версией, конечно.
 
 Централизация — большая проблема интернета. Теряется один источник и сразу теряются множество связей.
+
+## `<link>`, Йоав Вайс
 
 Второй доклад на HTML Special: Йоав Вайс про элемент &lt;link&gt;. Называет себя «performance freak», работает на  Akamai.
 
@@ -197,6 +201,8 @@ HTTP-заголовок Link, приходящий со страницей, мо
 
 ![](https://pbs.twimg.com/media/ClD6sDmWkAAKwx5.jpg)
 
+## `<layer>`, Питер-Пол Кох
+
 Третий доклад на HTML Special: Питер-Пол Кох про элемент &lt;layer&gt;.
 
 — Кто работал с &lt;layer&gt;?  
@@ -310,6 +316,8 @@ DRY? Don’t Repeat Yourself. Веб всё поменял: Do Repeat Yourself! 
 Вопросы [pic.twitter.com/j8X6Yeqoxe](https://t.co/j8X6Yeqoxe)
 
 ![](https://pbs.twimg.com/media/ClEF9HNXIAAV2tk.jpg)
+
+## `<source>`, Саймон Питерс
 
 Четвёртый доклад на HTML Special: Саймон Питерс про элемент &lt;source&gt;. Из Opera, автор множества спецификаций.
 
@@ -435,6 +443,8 @@ Opera предложила элемент &lt;video&gt; в 2007 году [pic.tw
 
 ![](https://pbs.twimg.com/media/ClETfxgWgAAtCjK.jpg)
 
+## `<noscript>`, Нильс Линхер
+
 Пятый доклад на HTML Special: Нильс Линхер про элемент &lt;noscript&gt;.
 
 [pic.twitter.com/z5rWPf1Y40](https://t.co/z5rWPf1Y40)
@@ -538,6 +548,8 @@ Opera предложила элемент &lt;video&gt; в 2007 году [pic.tw
 
 20 вопросов от Нильса по токенайзеру: отвечайте, делитесь в Твиттере — [html5te.st/quiz/](https://t.co/U4rNGKQqdX "http://html5te.st/quiz/")
 
+## `<input>`, Моника Динкулеску
+
 Шестой доклад на HTML Special: Моника Динкулеску про элемент &lt;input&gt;. Работает в Google над Polymer.
 
 Статья Моники &lt;input&gt; I love you but you’re bringing me down — по мотивам песни LCD Soundsystem про New York.
@@ -619,6 +631,8 @@ sd\_3434 = ''
 
 У нас перерыв до 16:45 по Москве, следующий доклад про &lt;iframe&gt;
 
+## `<iframe>`, Питер Ван Дер Зи
+
 Седьмой доклад на HTML Special: Питер Ван Дер Зи про элемент &lt;iframe&gt;.
 
 Инлайновый фрейм или плавающий фрейм? Скотт Айзакс из Microsoft, который изобрёл его, говорит, что это всё-таки инлайновый фрейм, i-frame.
@@ -678,6 +692,8 @@ XHTML запретил name и заменил на id и нужно указыв
 API для навигации между фреймами не очень понятно называется, но вполне кроссбраузерный [pic.twitter.com/rkHkfW0QQ0](https://t.co/rkHkfW0QQ0)
 
 ![](https://pbs.twimg.com/media/ClFC4IGWkAER72o.jpg)
+
+## `<html>`, Лия Веру
 
 Восьмой и последний доклад на HTML Special: Лия Веру про элемент &lt;html&gt;. Докладчик, исследователь в MIT, автор книги «CSS-секреты».
 
