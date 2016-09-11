@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-09-09',
+        shortName: 'fullstackfest',
+        fullName: 'FullStack Fest',
+        location: 'Барселона, Испания',
+        firstTweetId: '774147340881965056',
+        lastTweetId: '774274881760423936'
+    },
+    {
         date: '2016-09-08',
         shortName: 'fullstackfest',
         fullName: 'FullStack Fest',
