@@ -3,7 +3,7 @@ export default [
         date: '2016-09-08',
         shortName: 'fullstackfest',
         fullName: 'FullStack Fest',
-        location: 'Рейкявик, Исландия',
+        location: 'Барселона, Испания',
         firstTweetId: '773775323104182272',
         lastTweetId: '773922917684023297'
     },
