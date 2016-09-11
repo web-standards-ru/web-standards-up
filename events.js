@@ -1,11 +1,11 @@
 export default [
     {
-        date: '2016-08-26',
-        shortName: 'jsconfis',
-        fullName: 'JSConf Iceland',
+        date: '2016-09-08',
+        shortName: 'fullstackfest',
+        fullName: 'FullStack Fest',
         location: 'Рейкявик, Исландия',
-        firstTweetId: '769110200209043456',
-        lastTweetId: '769221326255034373'
+        firstTweetId: '773775323104182272',
+        lastTweetId: '773922917684023297'
     },
     {
         date: '2016-08-25',
