@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-09-17',
+        shortName: 'kharkivcss',
+        fullName: 'KharkivCSS',
+        location: 'Харьков, Украина',
+        firstTweetId: '777017356547678208',
+        lastTweetId: '777203817603600384'
+    },
+    {
         date: '2016-09-09',
         shortName: 'fullstackfest',
         fullName: 'FullStack Fest',
