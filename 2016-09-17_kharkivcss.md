@@ -2,7 +2,9 @@
 
 ## 2016-09-17, Харьков, Украина
 
-Доброе утро! С вами [@ihorzenich](https://twitter.com/ihorzenich "Ihor Zenich"), я буду вести прямую трансляцию с [#KharkivCSS](https://twitter.com/search?q=%23KharkivCSS).Программа: [kharkivcss.org/\#agenda](https://t.co/73E6674FXc "http://kharkivcss.org/#agenda")Видео-трансляции нет.
+Доброе утро! С вами [@ihorzenich](https://twitter.com/ihorzenich "Ihor Zenich"), я буду вести прямую трансляцию с [#KharkivCSS](https://twitter.com/search?q=%23KharkivCSS).
+Программа: [kharkivcss.org/\#agenda](https://t.co/73E6674FXc "http://kharkivcss.org/#agenda")
+Видео-трансляции нет.
 
 На [#KharkivCSS](https://twitter.com/search?q=%23KharkivCSS) полный зал, через 10 минут начинаем. [pic.twitter.com/Ezj9DlGGud](https://t.co/Ezj9DlGGud)
 
@@ -10,7 +12,8 @@
 
 500 человек в зале на самой первой конференции по CSS в Харькове!
 
-Вступительное слово от организатора конференции Владимира Макухи.На украинском, что необычно для Харькова. [pic.twitter.com/PbzZOqDD2f](https://t.co/PbzZOqDD2f)
+Вступительное слово от организатора конференции Владимира Макухи.
+На украинском, что необычно для Харькова. [pic.twitter.com/PbzZOqDD2f](https://t.co/PbzZOqDD2f)
 
 ![](https://pbs.twimg.com/media/CsimtokWAAQ9QwO.jpg)
 
@@ -39,7 +42,8 @@
 
 Денис надеется что в конце 2017 года Grid Layout можно будет использовать в продакшене.
 
-Алексей Швайка "Прячем хаки и ускоряем рендеринг с PostCSS"."Какая же конференция без доклада про PostCSS!" \(c\) [pic.twitter.com/UCBMLdSRhM](https://t.co/UCBMLdSRhM)
+Алексей Швайка "Прячем хаки и ускоряем рендеринг с PostCSS".
+"Какая же конференция без доклада про PostCSS!" \(c\) [pic.twitter.com/UCBMLdSRhM](https://t.co/UCBMLdSRhM)
 
 ![](https://pbs.twimg.com/media/CsjEX32WAAAbCCg.jpg)
 
@@ -148,7 +152,7 @@ RT [@SilentImp](https://twitter.com/SilentImp "Тихий Бес"): Слайды
 Примеры:  
 [github.com/SilentImp/youD…](https://t.co/7XUSfaN8KG "https://github.com/SilentImp/youDontKnowCSS")  
   
-[#KharkivCSS](https://twitter.com/search?q=%23KharkivCSS) https://t.c[pic.twitter.com/MpzkPOfMl0](https://t.co/MpzkPOfMl0)
+[#KharkivCSS](https://twitter.com/search?q=%23KharkivCSS) [pic.twitter.com/MpzkPOfMl0](https://t.co/MpzkPOfMl0)
 
 ![](https://pbs.twimg.com/media/CskJPtGWgAAGbm7.jpg)
 
