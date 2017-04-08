@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2017-03-28',
+        shortName: 'react-london',
+        fullName: 'React London',
+        location: 'Лондон, Великобритания',
+        firstTweetId: '846419558118412292',
+        lastTweetId: '846765584700313606'
+    },
+    {
         date: '2016-11-26',
         shortName: 'wsd-minsk',
         fullName: 'WebStandardards Days',
