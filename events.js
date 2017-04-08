@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2016-11-26',
+        shortName: 'wsd-minsk',
+        fullName: 'WebStandardards Days',
+        location: 'Минск, Беларусь',
+        firstTweetId: '802435874852130816',
+        lastTweetId: '802625879084068864'
+    },
+    {
         date: '2016-09-17',
         shortName: 'kharkivcss',
         fullName: 'KharkivCSS',
