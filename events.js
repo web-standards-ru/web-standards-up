@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2017-04-22',
+        shortName: 'kharkiv-css',
+        fullName: 'KharkivCSS',
+        location: 'Харьков, Украина',
+        firstTweetId: '855662455124512770',
+        lastTweetId: '855840187309412352'
+    },
+    {
         date: '2017-03-28',
         shortName: 'react-london',
         fullName: 'React London',
