@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2017-06-16',
+        shortName: 'pitercss_conf',
+        fullName: 'PiterCSS Conference',
+        location: 'Санкт-Петербург, Россия',
+        firstTweetId: '875615366075998208',
+        lastTweetId: '875745668320645122'
+    },
+    {
         date: '2017-04-22',
         shortName: 'kharkiv-css',
         fullName: 'KharkivCSS',
