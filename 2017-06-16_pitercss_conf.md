@@ -2,6 +2,19 @@
 
 ## 2017-06-16, Санкт-Петербург, Россия
 
+### Доклады
+[Designing Data-Driven Products. Controlled Chaos and Evolution](#designing-data-driven-products-controlled-chaos-and-evolution), Anton Shein, Yandex  
+[Paint the Web with CSS. On Creating Art with Code](#paint-the-web-with-css-on-creating-art-with-code), Eva Lettner, ChillBill  
+[Creating Magic With Houdini](#creating-magic-with-houdini), Patrick Kettner, Microsoft  
+[Is CSS-in-JS Really That Bad Idea?](#is-css-in-js-really-that-bad-idea), Andrey Okonetchnikov, himself  
+[Chinese Typography on the Web](#chinese-typography-on-the-web), Hui Jing Chen, Wismut Labs  
+[Breaking the Norm with Creative CSS](#breaking-the-norm-with-creative-css), Agnieszka Naplocha, Adobe  
+[Accessible UX](#accessible-ux), Manuel Matuzovic, himself  
+[Designing Declarative APIs](#designing-declarative-apis), Ilya Birman, Bureau Gorbunov  
+
+
+### Открытие
+
 Всем привет с PiterCSS, на сегодня этот твиттер зохвачен [@\_h4\_](https://twitter.com/_h4_ "Михаил Баранов") [pic.twitter.com/qxW7SRSnGZ](https://t.co/qxW7SRSnGZ)
 
 ![](https://pbs.twimg.com/media/DCbPiExUMAAV0cw.jpg)
@@ -25,6 +38,8 @@
 Но эта трансляция будет на русском, не переживайте ;\)
 
 Почитать трансляцию со вчерашнего [#cssday](https://twitter.com/search?q=%23cssday) \(и, возможно с сегодняшнего\) вы можете у Артура [@fliptheweb](https://twitter.com/fliptheweb "Artur Kornakov") Корнакова.
+
+### Designing Data-Driven Products. Controlled Chaos and Evolution
 
 Первый доклад от Антона  [@antonadrior](https://twitter.com/antonadrior "Anton Shein") Шеина. «Designing Data-Driven Products. Controlled Chaos and Evolution»
 
@@ -57,6 +72,8 @@
 Депо на гитхабе — [github.com/yandex/dpt](https://t.co/TwjOHl43Rq "https://github.com/yandex/dpt")
 
 Там не совсем хорошо с документацией, поэтому с вопросами можно обращаться напрямую к Антону.
+
+### Paint the Web with CSS. On Creating Art with Code
 
 Следующий доклад от Евы [@eva\_trostlos](https://twitter.com/eva_trostlos "Eva Lettner 🇷🇺") Леттнер. «Paint the Web with CSS. On Creating Art with Code». Через пару минут.
 
@@ -111,6 +128,8 @@ CSS-зомби атакуе! [pic.twitter.com/sJ1cbDSP4H](https://t.co/sJ1cbDSP4
 
 Вадим поделился, что множественные box-shadow один из его любимых трюков. Если border недостаточно, он использует их. Но в разумных пределах
 
+### Creating Magic With Houdini
+
 Патрик [@patrickkettner](https://twitter.com/patrickkettner "Patrick Kettner") Кеттнер рассказывает про проект Гудини. «Creating Magic With Houdini»
 
 Интерфейс первого браузера Нетскейп. CSS ещё не изобретён, но уже есть тег &lt;center&gt; [pic.twitter.com/Ne08nSLcqy](https://t.co/Ne08nSLcqy)
@@ -132,6 +151,8 @@ CSS-зомби атакуе! [pic.twitter.com/sJ1cbDSP4H](https://t.co/sJ1cbDSP4
 Секция вопросов:  
 — Когда будет стабилизация и заморозка API?  
 — Сложно сказать, возможно в течение ближайшего года.
+
+### Is CSS-in-JS Really That Bad Idea?
 
 В 2007 году Алексей выступал в Москве с докладом «Архитектура Фронтенда». Тогда ещё даже не было jQuery, а фронтед уже был ;\)
 
@@ -167,6 +188,8 @@ CSS-in-JS помогает получить код, который проще п
 Плюсы и минусы CSS-модулей [pic.twitter.com/hfpZgtSfsm](https://t.co/hfpZgtSfsm)
 
 ![](https://pbs.twimg.com/media/DCcI4eKXsAAWCtz.jpg)
+
+### Chinese Typography on the Web
 
 Первый доклад после перерыва — Хуэй Джин Чэнь [@hj\_chen](https://twitter.com/hj_chen "HJ Chen"). «Chinese Typography on the Web».
 
@@ -210,6 +233,8 @@ Writhig-mode становится особенно полезен, когда д
 
 Современное состояние CSS позволяет нам добиваться большей гибкости при локализации для дальневосточной аудитории.
 
+### Breaking the Norm with Creative CSS
+
 Следующий доклад — Агнешка [@aganaplocha](https://twitter.com/aganaplocha "aga naplocha") Наплоха. «Breaking the Norm with Creative CSS»
 
 Огромное число сайтов в интернете ужасающе похожи. 12-колоночная сетка и три блока — шапка, контент, подвал.
@@ -231,6 +256,8 @@ jpg + cliping path = полупрозрачный png, только в 6 раз 
 Если вы использует маски и clipping со сторонних ресурсов — не забывайте про CORS. Или положите всё на один домен.
 
 Агнешке очень понравилась форма создания бейджа на [@pitercss\_conf](https://twitter.com/pitercss_conf "pitercss_conf") ;\)
+
+### Accessible UX
 
 Следующий доклад — Мануэль [@mmatuzo](https://twitter.com/mmatuzo "Manuel @ pitercss") Матузович. «Accessible UX».
 
@@ -268,6 +295,8 @@ jpg + cliping path = полупрозрачный png, только в 6 раз 
 Некоторые участники предпочитают повышенный комфорт. [pic.twitter.com/vflXzLm7Kj](https://t.co/vflXzLm7Kj)
 
 ![](https://pbs.twimg.com/media/DCc22CkXYAE-LVX.jpg)
+
+### Designing Declarative APIs
 
 Завершает конференцию Илья [@ilyabirmannet](https://twitter.com/ilyabirmannet "Ilya Birman") Бирман. «Designing Declarative APIs»
 
