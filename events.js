@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2017-08-26',
+        shortName: 'feday-conf',
+        fullName: 'FEDay Conference',
+        location: 'Пекин, Китай',
+        firstTweetId: '901248577854459904',
+        lastTweetId: '901399735751389184'
+    },
+    {
         date: '2017-06-16',
         shortName: 'pitercss_conf',
         fullName: 'PiterCSS Conference',
