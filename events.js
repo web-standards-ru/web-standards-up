@@ -1,5 +1,21 @@
 export default [
     {
+        date: '2017-09-23',
+        shortName: 'webexpo',
+        fullName: 'WebExpo 2017',
+        location: 'Прага, Чехия',
+        firstTweetId: '911500300309204992',
+        lastTweetId: '911611387398561793'
+    },
+    {
+        date: '2017-09-22',
+        shortName: 'webexpo',
+        fullName: 'WebExpo 2017',
+        location: 'Прага, Чехия',
+        firstTweetId: '910979964106940416',
+        lastTweetId: '911243570648162304'
+    },
+    {
         date: '2017-08-26',
         shortName: 'feday-conf',
         fullName: 'FEDay Conference',
