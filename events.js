@@ -1,5 +1,13 @@
 export default [
     {
+        date: '2018-10-27',
+        shortName: 'wsd-kiev',
+        fullName: 'Web Standars Days Kiev',
+        location: 'Киев, Украина',
+        firstTweetId: '1056086125322952704',
+        lastTweetId: '1056214484170297345'
+    },
+    {
         date: '2017-09-22',
         shortName: 'webexpo',
         fullName: 'WebExpo 2017',
