@@ -1,4 +1,5 @@
 #!/bin/bash
+set +x
 
 echo "set git environment"
 git config user.email ${GITHUB_EMAIL}
