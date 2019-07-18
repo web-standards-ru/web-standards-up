@@ -1,16 +1,8 @@
 export default [
     {
-        date: '2019-07-13',
-        shortName: 'wsd-spb',
-        fullName: 'Web Standars Days Saint-Petersburg',
-        location: 'Санкт-Петербург, Россия',
-        firstTweetId: '1149942590059503617',
-        lastTweetId: '1150078619261317120'
-    },
-    {
         date: '2018-10-27',
         shortName: 'wsd-kiev',
-        fullName: 'Web Standars Days Kiev',
+        fullName: 'Web Standards Days Kiev',
         location: 'Киев, Украина',
         firstTweetId: '1056086125322952704',
         lastTweetId: '1056214484170297345'
