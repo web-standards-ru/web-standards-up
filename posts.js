@@ -1,10 +1,8 @@
 import fs from 'fs-extra';
 import events from './events';
-import urlRegexp from 'twitter-regexps/url';
 import renderTweet from 'tweet.md';
 
 const log = console.log.bind(null);
-const currentEvent = events[0];
 const getMedia = (tweet) => tweet.extended_entities !== undefined ? tweet.extended_entities.media : [];
 const extractImages = (tweet) => getMedia(tweet)
     .map(item => item['media_url_https'])
